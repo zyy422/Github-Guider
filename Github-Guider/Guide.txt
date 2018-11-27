@@ -1,15 +1,24 @@
 1.initialize Git bash config:
+
 	git config --global user.name "zyy422"
 	git config --global user.email "422535451@qq.com"
 
 2.create work directory: cd git bash at work directory
 
 3.initialize git repository:
+
 	git init
+
 4.connect with remove service:
+
 	git remote add origin https://github.com/zyy422/Github-Guider.git
+
 5.watch the change in local working directory:
+
 	git status
 	
-6.update file or changed file"
+6.update file or changed file:
+
+	git add .
+	git commit -m "instruction remark"
 	git push -u origin master
