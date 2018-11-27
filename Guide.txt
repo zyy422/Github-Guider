@@ -1,3 +1,0 @@
-1.initialize Git bash:
-	git config --global user.name "zyy422"
-	git config --global user.email "422535451@qq.com"
