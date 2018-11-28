@@ -21,4 +21,5 @@
 
 	git add .
 	git commit -m "instruction remark"
+	git pull --rebase origin master //合并remote文件到本地仓库
 	git push -u origin master
